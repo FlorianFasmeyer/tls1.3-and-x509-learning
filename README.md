@@ -1,1 +1,2 @@
-# Security and Encryption Laboratory - TLS 1.3 & x.509
+# Security and Encryption Laboratory
+In this laboratory, I reviewed my TLS and x.509 knowledge by playing around with the `ssl` and `cryptography` packages.
